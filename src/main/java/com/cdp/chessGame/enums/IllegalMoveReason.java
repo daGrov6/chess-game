@@ -1,0 +1,12 @@
+package com.cdp.chessGame.enums;
+
+public enum IllegalMoveReason {
+	GAME_IS_OVER,
+	ILLEGAL_CASTLE,
+	MOVING_INTO_CHECK,
+	NOT_PIECE_OWNER,
+	PLAYER_IN_CHECK, 
+	PIECE_NOT_IN_LOCATION,
+	TAKING_OWN_PIECE,
+	WRONG_PLAYER;
+}

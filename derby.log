@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 25 14:50:35 EDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015f-54df-3588-00001c701f90 
+on database directory memory:C:\misc\workspaces\chessGame\chessGame\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/CarsonPOTTER/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_144-b01
+user.dir=C:\misc\workspaces\chessGame\chessGame
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
